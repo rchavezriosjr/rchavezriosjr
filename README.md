@@ -9,7 +9,7 @@ Hello everyone, i'm Ricardo, i've coding for 5 or 6 years. I'm from Nicaragua, m
 * 🌍  I'm based in Masaya, Nicaragua
 * 🖥️  See my portfolio at [My Resume](http://rchavezriosjr.github.io/CS50w-project0/)
 * ✉️  You can contact me at [rchavezrios@gmail.com](mailto:rchavezrios@gmail.com)
-* 🚀  I'm currently working on [CupQuality for Coffe Testing](http://cupquality.herokuapp.com)
+* 🚀  I'm currently working on [CupQuality for Coffee Testing](http://cupquality.herokuapp.com)
 * 🧠  I'm learning React, TypeScript, Ajax.
 * 🤝  I'm open to collaborating on Reclaim Sustainability Projects, to improve our Life Quality. Save the world, is our House.
 * ⚡  I love beer, food, and friends time.
