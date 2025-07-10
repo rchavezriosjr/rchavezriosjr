@@ -1,10 +1,20 @@
 Hi 👋 My name is Ricardo René Chávez Ríos
 =========================================
 
-Full Stack Developer
+Tech Lead
 --------------------
 
-Hello everyone, i'm Ricardo, i've coding for 5 or 6 years. I'm from Nicaragua, my native lenguage is Spanish, so i think i do my best on english. I started at high school, when i was 15 years old, i join programing, writing apps on C# with SQL Databases, later when i started College, i realized that there was a long long way through to be a Full Stack Developer. When i was on my first years i've learned some basics on Java, MySQL, SQL Server, and Web Design and Development, then i join CS50 Harvard Course by Dr. David J. Malan, and i got a job there, i became Main Teaching Assistant, at CS50 and CS50W. At this point i began with python, using Flask i realized that i have the power to bring digital solutions to nowadays situations, but in a small scale, then i touched Django, and i decide to be a Full Stack Developer on this technologie. I'm on continuous improvement, learning a lot of things all days of my life, now i've been working as Full Stack Developer on Fundación Solidaridad Latinoamericana, helping together to Sustainable Development with our farmers and breeders across all the world and improving the supply chain for those who got our contribution.
+Hello! I'm Ricardo René Chávez Ríos, a technology project and product leader with a solid track record in managing and delivering impactful digital solutions. My background as a Senior FullStack Software Developer (with over 5 years of experience) provides me with a deep understanding to guide technical teams and translate business visions into functional products.
+
+My Product-Oriented & Driving Business Value mindset allows me to oversee the entire development lifecycle, from defining requirements as a Business Analyst to successful implementation and continuous optimization.
+
+I am passionate about the intersection of technology with rural development and environmental conservation. I specialize in leading the development of scalable solutions that support sustainable production, climate change resilience, and forest monitoring. My work has included directing projects for deforestation monitoring and compliance with EUDR and other sustainability certifications, directly contributing to a greener future.
+
+As a delivery leader, I have a proven track record in coordinating the planning and delivery of complex software projects, overseeing daily operations, and implementing processes to ensure continuous improvement and quality. I am proficient in Agile methodologies (Scrum/Kanban) and possess deep technical knowledge in Python (Django, Flask), JavaScript (ReactJS, AngularJS), MySQL, PostgreSQL, C#, .NET, Node.js.
+
+A key strength is my ability to collaborate effectively with diverse stakeholders from various countries and backgrounds – including farmers, agronomists, biologists, forest engineers, and specialists from both the private and public sectors – for product definition and to ensure successful implementation.
+
+I am committed to continuous learning and leveraging technology to solve real-world problems through effective leadership. Connect with me if you're looking for a product and business-minded leader to drive your technological initiatives!
 
 * 🌍  I'm based in Masaya, Nicaragua
 * 🖥️  See my portfolio at [My Resume](http://rchavezriosjr.github.io/CS50w-project0/)
